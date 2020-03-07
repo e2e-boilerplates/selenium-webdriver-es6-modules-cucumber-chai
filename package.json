@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "dependencies": {
     "chai": "4.2.0",
     "chromedriver": "79.0.3",
@@ -24,14 +24,10 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "chai",
     "cucumber",
-    "e2e",
-    "e2e tests",
+    "es Modules",
     "es6",
-    "example",
-    "integration test",
     "selenium",
     "selenium-webdriver",
     "webdriver"
