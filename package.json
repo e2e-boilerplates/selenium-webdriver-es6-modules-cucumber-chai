@@ -27,7 +27,6 @@
     "chai",
     "cucumber",
     "es modules",
-    "es6",
     "selenium",
     "selenium-webdriver",
     "webdriver"
