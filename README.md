@@ -1,12 +1,12 @@
-# selenium-webdriver: (CommonJS, CucumberJS, Chai and Expect)
+[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-expect](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-expect/workflows/selenium-webdriver-es-modules-cucumber-chai-expect/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-expect/actions?workflow=selenium-webdriver-es-modules-cucumber-chai-expect)
 
-[![GitHub Actions status | e2e-boilerplates/selenium-webdriver-commonjs-cucumberjs-chai-expect](https://github.com/e2e-boilerplates/selenium-webdriver-commonjs-cucumberjs-chai-expect/workflows/selenium-webdriver-commonjs-cucumberjs-chai-expect/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-commonjs-cucumberjs-chai-expect/actions?workflow=selenium-webdriver-commonjs-cucumberjs-chai-expect)
+# Selenium-WebDriver Boilerplate
 
-selenium-webdriver end-to-end test automation boilerplate., using commonjs, CucumberJS, Chai and Expect.
+Selenium-WebDriver end-to-end test automation boilerplate, using ES Modules, Cucumber, Chai and Expect.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/selenium-webdriver-commonjs-cucumberjs-chai-expect.git
-    cd selenium-webdriver-commonjs-cucumberjs-chai-expect
-    npm install
-    npm run test
+git clone git@github.com:e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-expect.git
+cd selenium-webdriver-es-modules-cucumber-chai-expect
+npm install
+npm run test

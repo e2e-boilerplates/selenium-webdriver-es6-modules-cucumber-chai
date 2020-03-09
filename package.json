@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-expect/issues"
   },
@@ -9,7 +9,7 @@
     "cucumber": "6.0.5",
     "selenium-webdriver": "4.0.0-alpha.7"
   },
-  "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using Using ES Modules, Cucumber, Chai and Expect.",
+  "description": "Selenium-WebDriver end-to-end test automation boilerplate. using ES Modules, Cucumber, Chai and Expect.",
   "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.0.0",
@@ -28,14 +28,9 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "chai",
     "cucumber",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "selenium",
     "selenium-webdriver"
   ],
