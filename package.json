@@ -35,11 +35,13 @@
     "cucumber",
     "e2e",
     "e2e tests",
+    "es modules",
     "example",
     "expect",
     "integration test",
     "selenium",
-    "selenium-webdriver"
+    "selenium-webdriver",
+    "webdriver manager"
   ],
   "license": "MIT",
   "lint-staged": {
